@@ -1,0 +1,5 @@
+area_category, estimate           , .y.        , group1, group2, n1 , n2 , statistic, p      , conf.low           , conf.high           , method  , alternative, p.adj   , p.adj.signif, y.position, groups, xmin, xmax
+Tiny         , -0.5694129649500552, missed_rate, 3D    , 2D    , 490, 490,     208  , 0.128  , -1.639357741250265 , 0.2019164886000509  , Wilcoxon, two.sided  , 0.512   , ns          ,    5.69652,       ,    1,    2
+Small        , -4.3441806465988275, missed_rate, 3D    , 2D    , 490, 490,     472  , 6.22e-8, -6.453961564830388 , -2.832361677131972  , Wilcoxon, two.sided  , 2.488e-7, ****        ,    5.69652,       ,    1,    2
+Medium       , -2.073541552209603 , missed_rate, 3D    , 2D    , 490, 490,     603.5, 8.32e-4, -3.3214391139648027, -0.879478780548253  , Wilcoxon, two.sided  , 0.003328, **          ,    5.69652,       ,    1,    2
+Large        , -2.1892284856364688, missed_rate, 3D    , 2D    , 490, 490,     402  , 0.0146 , -3.787930210875585 , -0.43992839484472607, Wilcoxon, two.sided  , 0.0584  , ns          ,    5.69652,       ,    1,    2

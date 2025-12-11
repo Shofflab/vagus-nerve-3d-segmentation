@@ -1,0 +1,2 @@
+estimate,.y.,group1,group2,n1,n2,statistic,p,conf.low,conf.high,method,alternative,p.adj,p.adj.signif,y.position,groups,xmin,xmax
+-11.172932154029715,fp_rate,3D,2D,100,100,541.5,1.15e-4,-17.467971477983752,-5.464801783519493,Wilcoxon,two.sided,1.15e-4,***,74.90808,,1,2

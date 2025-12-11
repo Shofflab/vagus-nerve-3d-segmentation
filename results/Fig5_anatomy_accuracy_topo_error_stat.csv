@@ -1,0 +1,2 @@
+metric,estimate,.y.,group1,group2,n1,n2,statistic,p,conf.low,conf.high,method,alternative,p.adj,p.adj.signif,y.position,groups,xmin,xmax
+error_rate,-0.3696168013080741,value,3D,2D,100,100,173,6.21e-16,-0.5063931978616428,-0.25960771392829113,Wilcoxon,two.sided,6.21e-16,****,3.99664,,1,2

@@ -1,0 +1,2 @@
+cls,metric,estimate,.y.,group1,group2,n1,n2,statistic,p,conf.low,conf.high,method,alternative,p.adj,p.adj.signif,y.position,groups,xmin,xmax
+fas,cl_dice,0.05166400596818927,value,3D,2D,100,100,4444,4.21e-11,0.0391875037014842,0.06566969720580437,Wilcoxon,two.sided,4.21e-11,****,0.93084,,1,2

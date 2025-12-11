@@ -1,0 +1,2 @@
+estimate,.y.,group1,group2,n1,n2,statistic,p,conf.low,conf.high,method,alternative,p.adj,p.adj.signif,y.position,groups,xmin,xmax
+-31.52411847949243,diff,3D,2D,100,100,123.5,7.14e-13,-43.859653584885386,-21.929896053230046,Wilcoxon,two.sided,7.14e-13,****,120.50849780701753,,1,2
