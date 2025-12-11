@@ -1,5 +1,3 @@
-# Vagus Segmentation Analysis
-
 ## Overview
 
 This repository contains the scripts that support the paper:
@@ -15,18 +13,20 @@ This repository contains the scripts that support the paper:
 ## Requirements
 
 ### Python (via mamba + pip)
+- Install mamba by following the official instructions: https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html.
 - We run everything from a mamba-managed Python 3.11 environment. Create one with:
   ```bash
   mamba create -n <ENV_NAME> python=3.11
   mamba activate <ENV_NAME>
   ```
-- With the environment active, install packages from `requirements.txt` (`batchgenerators`, `click`, `monai`, `numpy`, `opencv-python`, `pandas`, `scikit-image`, `tifffile`, `torch`, `tqdm`, `zarr`):
+- With the environment active, install packages from `requirements.txt`:
   ```bash
   pip install -r requirements.txt
   ```
 
 ### R
-- R 4.2+ with the plotting dependencies noted in the scripts; install them all at once with `install.packages(c("broom","ggplot2","ggpmisc","ggpubr","ggthemes","gt","gtsummary","here","janitor","patchwork","readr","rmarkdown","rstatix","scales","tidyverse"))`.
+- Install R (version 4.2 or later) via the CRAN instructions: https://cran.r-project.org/.
+- Add the plotting dependencies in one go with `install.packages(c("broom","ggplot2","ggpmisc","ggpubr","ggthemes","gt","gtsummary","here","janitor","patchwork","readr","rmarkdown","rstatix","scales","tidyverse"))`.
 
 ## Setup
 
